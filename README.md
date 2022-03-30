@@ -16,7 +16,17 @@ The objective of this project was to use JavaScript to bind code to user actions
 - Open the index.html on your browser
 - Move your mouse and enjoy a set of eyes following your mouse movement!
 
----
 *Where to go from here:*
 
 - It will be nice to dynamically generate sets of eyes  by pushing an "add set of eyes" button
+
+---
+Notes:
+
+Professional Certificate in Coding - MIT xPRO/Emeritus
+
+**LICENSE:**
+
+This project is licensed under the MIT license
+
+https://github.com/giselcgomez/eyes/blob/main/LICENSE
